@@ -1,5 +1,6 @@
 ## ocra.ttf  
-Currenty due to Licence complication, I can public only my Latin Extended-A font . In this folder is also [datantFREE/OCR A EXTENDED REGULAR FONT](https://www.dafontfree.net/freefonts-ocr-a-extended-f65181.htm) Contact me for making combinazion of these fonts.
+Currenty due to Licence complication, I can public only my Latin Extended-A font . In this folder is also [datantFREE/OCR A EXTENDED REGULAR FONT](https://www.dafontfree.net/freefonts-ocr-a-extended-f65181.htm) Contact me for making combinazion of these fonts.  
+  
 "OCRARCT.TTF", "OCRA-LEA.ttf", "OCRA-LEA.tfd"  falls under digitized data copyright of The Monotype Corporation 1991-1995, can be ONLY used for HUDs for the Team Fortress series games from Valve Corporation.  
 
 U+0020 - U+007E (Basic Latin)  
