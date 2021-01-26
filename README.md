@@ -1,4 +1,7 @@
 ## TF2-extended-fonts  
+Each font have thire script in "clientscheme.res"  
+I am fine with just crediting in that code.  
+  
 FontForge uses .sfd format. 
 ***
 TF2 fonts  
