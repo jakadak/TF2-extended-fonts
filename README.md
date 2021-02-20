@@ -4,7 +4,7 @@
 If your HUD is using any custom fonts, just simpli add them to customfontfiles.res.  
   
 If you want ot use TF2.ttf, TF2build.ttf, TF2professor.ttf, TF2secondary.ttf I am fine just with crediting in the code.  
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED  
 More info: [Copyright](https://github.com/jakadak/TF2-extended-fonts#copyright)  
 
 FontForge uses .sfd format files.  
