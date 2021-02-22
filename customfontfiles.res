@@ -173,8 +173,8 @@ Scheme
 		}
 		"5" 
 		{
-		"font" "resource/fonts/TF2Progessor.ttf"
-		"name" "TF2 Progessor" //created by Jakadak https://github.com/jakadak/TF2-extended-fonts
+		"font" "resource/fonts/TF2Professor.ttf"
+		"name" "TF2 Professor" //created by Jakadak https://github.com/jakadak/TF2-extended-fonts
 
 			"russian"
 			{
