@@ -14,22 +14,21 @@ Before and after comparison (Latin A showcase)
 ![BeforexAfter](https://i.imgur.com/QpgiHcY.png)
 
 
-| **Latin based**  | Bulgarian | Czech | Danish | Dutch | English | Finnish | French | German | Hungarian | Italian | Norwegian | Polish | Portuguese | Romanian | Spanish | Swedish | Turkish | 
-|      :---:       |   :---:   | :---: | :---:  | :---: |  :---:  |  :---:  | :---:  | :---:  |   :---:   |  :---:  |   :---:   |  :---: |   :---:    |  :---:   |  :---:  |  :---:  |  :---:  |
-| TF2.ttf          |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |   ✔    |    ✔    |   ✔    |
-| TF2build.ttf     |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |   ✔    |    ✔    |   ✔    |
-| TF2professor.ttf |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |   ✔    |    ✔    |   ✔    |
-| TF2secondary.ttf |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |   ✔    |    ✔    |   ✔    |
-| ocra.ttf         |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |   ✔    |    ✔    |   ✔    |
+| **Latin based**  | Bulgarian | Czech | Danish | Dutch | English | Finnish | French | German | Hungarian | Italian | Norwegian | Polish | Portuguese | Romanian | Spanish (Brazil) | Swedish | Turkish | 
+|      :---:       |   :---:   | :---: | :---:  | :---: |  :---:  |  :---:  | :---:  | :---:  |   :---:   |  :---:  |   :---:   |  :---: |   :---:    |  :---:   |      :---:       |  :---:  |  :---:  |
+| TF2.ttf          |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
+| TF2build.ttf     |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
+| TF2professor.ttf |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
+| TF2secondary.ttf |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
+| ocra.ttf         |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
 
-|    **other**     | Russian | Ukrainian | Chinese | Greek | Japanese | Korean | Thai |
-|      :---:       |  :---:  |   :---:   |  :---:  | :---: |  :---:   | :---:  |:---: |
-| TF2.ttf          |   ✔    |     ✔     |    ❌   |   ❌   |    ❌    |   ❌   |  ❌   |
-| TF2build.ttf     |   ✔    |     ✔     |    ❌   |   ❌   |    ❌    |   ❌   |  ❌   |
-| TF2professor.ttf |   ✔    |     ✔     |    ❌   |   ❌   |    ❌    |   ❌   |  ❌   |
-| TF2secondary.ttf |   ✔    |     ✔     |    ❌   |   ❌   |    ❌    |   ❌   |  ❌   |
-| ocra.ttf         |   ❌    |     ❌     |    ❌   |   ❌   |    ❌    |   ❌   |  ❌   |
-
+|    **other**     | Russian | Ukrainian | (T+S) Chinese | Greek | Japanese | Korean(a) | Thai |
+|      :---:       |  :---:  |   :---:   |     :---:     | :---: |  :---:   |   :---:   |:---: |
+| TF2.ttf          |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
+| TF2build.ttf     |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
+| TF2professor.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
+| TF2secondary.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
+| ocra.ttf         |   ❌    |     ❌     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 
 ***
 ## Copyright  
