@@ -1,10 +1,10 @@
 ## TF2-extended-fonts  
-1. copy customfontfiles.res and 📁fonts in to `HUD/resource`.  
+1. copy customfontfiles.res and 📁fonts into `HUD/resource`.  
 2. add `#base "customfontfiles.res"` to begining of clientscheme.res file  
-If your HUD is using any custom fonts, just simpli add them to customfontfiles.res.  
+If your HUD is using any custom fonts, just simply add them to customfontfiles.res.  
    
 Feel free to use TF2.ttf, TF2build.ttf, TF2professor.ttf, TF2secondary.ttf.  
-Also publisher is not responsible for distributing in any way.  
+Also, publisher is not responsible for distributing in any way.  
 Project files are made with FontForge.  
 ***
 Before and after comparison (Latin A showcase)  
