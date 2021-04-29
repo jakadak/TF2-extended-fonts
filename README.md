@@ -5,7 +5,6 @@ If your HUD is using any custom fonts, just simpli add them to customfontfiles.r
    
 Feel free to use TF2.ttf, TF2build.ttf, TF2professor.ttf, TF2secondary.ttf.  
 Also publisher is not responsible for distributing in any way.  
-  
 Project files are made with FontForge.  
 ***
 Before and after comparison (Latin A showcase)  
@@ -27,7 +26,7 @@ Before and after comparison (Latin A showcase)
 | TF2professor.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 | TF2secondary.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 | ocra.ttf         |   ❌    |     ❌     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
-***
+
 ## Copyright  
 TF2 fonts
 TF2 fonts and fonts project fall under Andrea Wicklund/Valve corporation copyright and can by used for **any non-comorcial use**.  
