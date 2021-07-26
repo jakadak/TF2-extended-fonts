@@ -25,7 +25,7 @@ Before and after comparison (Latin A showcase)
 | TF2build.ttf     |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 | TF2professor.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 | TF2secondary.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
-| ocra.ttf         |   ❌    |     ❌     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
+| ocra.ttf         |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 
 ## Copyright  
 TF2 fonts

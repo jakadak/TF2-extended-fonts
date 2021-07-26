@@ -340,6 +340,14 @@ Scheme
 		"font"	"resource/fonts/ocra.ttf"
 		"name" "ocra"	
 
+			"russian"
+			{
+				"range" "0x0020 0x2116"
+			}	
+			"ukrainian"
+			{
+				"range" "0x0020 0x2116"
+			}
 			"bulgarian"
 			{
 				"range" "0x0020 0x2116"
