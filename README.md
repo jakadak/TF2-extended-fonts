@@ -27,6 +27,8 @@ Before and after comparison (Latin A showcase)
 | TF2secondary.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 | ocra.ttf         |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 
+If you find any inaccuracies in the shapes of the letters, let me know [here](https://github.com/jakadak/TF2-extended-fonts/issues/4).
+
 ## Copyright  
 TF2 fonts
 TF2 fonts and fonts project fall under Andrea Wicklund/Valve corporation copyright and can by used for **any non-comorcial use**.  
