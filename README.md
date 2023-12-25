@@ -7,8 +7,9 @@ Feel free to use TF2.ttf, TF2build.ttf, TF2professor.ttf, TF2secondary.ttf.
 Also, publisher is not responsible for distributing in any way.  
 Project files are made with FontForge.  
 ***
-Before and after comparison (Latin A showcase)  
-![BeforexAfter](https://i.imgur.com/QpgiHcY.png)
+Before and after comparison   
+![BeforexAfter1](https://i.imgur.com/1rXyvpJ.png)  
+![BeforexAfter](https://i.imgur.com/RojCKQL.png)  
 Complete album: [TF2 extended fonts](https://imgur.com/gallery/sk04pso)  
 ***
 | **Latin based**  | Bulgarian | Czech | Danish | Dutch | English | Finnish | French | German | Hungarian | Italian | Norwegian | Polish | Portuguese | Romanian | Spanish (Brazil) | Swedish | Turkish | 
