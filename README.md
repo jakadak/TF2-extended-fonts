@@ -9,8 +9,8 @@ Project files are made with FontForge.
 ***
 Before and after comparison (Latin A showcase)  
 ![BeforexAfter](https://i.imgur.com/QpgiHcY.png)
-
-
+Complete album: [TF2 extended fonts](https://imgur.com/gallery/sk04pso)  
+***
 | **Latin based**  | Bulgarian | Czech | Danish | Dutch | English | Finnish | French | German | Hungarian | Italian | Norwegian | Polish | Portuguese | Romanian | Spanish (Brazil) | Swedish | Turkish | 
 |      :---:       |   :---:   | :---: | :---:  | :---: |  :---:  |  :---:  | :---:  | :---:  |   :---:   |  :---:  |   :---:   |  :---: |   :---:    |  :---:   |      :---:       |  :---:  |  :---:  |
 | TF2.ttf          |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
@@ -28,7 +28,7 @@ Before and after comparison (Latin A showcase)
 | ocra.ttf         |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 
 If you find any inaccuracies in the shapes of the letters, let me know [here](https://github.com/jakadak/TF2-extended-fonts/issues/4).
-
+***
 ## Copyright  
 TF2 fonts
 TF2 fonts and fonts project fall under Andrea Wicklund/Valve corporation copyright and can by used for **any non-comorcial use**.  
