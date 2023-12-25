@@ -1,7 +1,5 @@
-//Font range explenation: https://en.wikipedia.org/wiki/List_of_Unicode_characters
-//Font chacker: https://www.alphabet-type.com/tools/charset-checker/
+//update by Jakadak https://github.com/jakadak/TF2-extended-fonts
 
-//created by Jakadak https://github.com/jakadak/TF2-extended-fonts
 Scheme
 {
 	CustomFontFiles
