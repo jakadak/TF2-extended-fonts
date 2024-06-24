@@ -3,8 +3,8 @@
 2. add `#base "customfontfiles.res"` to begining of clientscheme.res file  
 If your HUD is using any custom fonts, just simply add them to customfontfiles.res.  
    
-Feel free to use TF2.ttf, TF2build.ttf, TF2professor.ttf, TF2secondary.ttf.  
-Also, publisher is not responsible for distributing in any way.  
+Feel free to use TF2.ttf, TF2build.ttf, TF2professor.ttf, TF2secondary.ttf, Ocra.ttf, Blocks.ttf.  
+Disclaimer: Publisher is not responsible for distributing software in any way.  
 Project files are made with FontForge.  
 ***
 Before and after comparison   
@@ -19,6 +19,8 @@ Complete album: [TF2 extended fonts](https://imgur.com/gallery/sk04pso)
 | TF2professor.ttf |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
 | TF2secondary.ttf |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
 | ocra.ttf         |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
+| Blocks.ttf       |    ✔     |   ✔   |   ✔   |   ✔   |   ✔    |    ✔    |   ✔   |   ✔   |     ✔     |   ✔    |     ✔     |   ✔   |     ✔     |    ✔     |        ✔        |    ✔    |   ✔    |
+
 
 |    **other**     | Russian | Ukrainian | (T+S) Chinese | Greek | Japanese | Korean(a) | Thai |
 |      :---:       |  :---:  |   :---:   |     :---:     | :---: |  :---:   |   :---:   |:---: |
@@ -27,13 +29,10 @@ Complete album: [TF2 extended fonts](https://imgur.com/gallery/sk04pso)
 | TF2professor.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 | TF2secondary.ttf |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
 | ocra.ttf         |   ✔    |     ✔     |       ❌      |   ❌   |    ❌    |    ❌     |  ❌   |
+| Blocks.ttf       |   ✔    |     ✔     |       ❌      |   ✔   |    ❌    |    ❌     |  ❌   |
 
 If you find any inaccuracies in the shapes of the letters, let me know [here](https://github.com/jakadak/TF2-extended-fonts/issues/4).
 ***
 ## Copyright  
 TF2 fonts
 TF2 fonts and fonts project fall under Andrea Wicklund/Valve corporation copyright and can by used for **any non-comorcial use**.  
-  
-ocra.ttf, ocra.sfd  
-My point of view: Falls under digitized data copyright of The Monotype Corporation 1991-1995.  
-DISCLAIMER:  PUBLISHER IS NOT RESPONSIBLE FOR DISTRIBUTING ORCA FILES IN ANY WAY.
