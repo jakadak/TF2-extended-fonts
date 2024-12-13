@@ -1,7 +1,10 @@
 ## TF2-extended-fonts  
 1. copy customfontfiles.res and 📁fonts into `HUD/resource`.  
-2. add `#base "customfontfiles.res"` to begining of clientscheme.res file  
-If your HUD is using any custom fonts, just simply add them to customfontfiles.res.  
+2. add `#base "customfontfiles.res"` to beginning of clientscheme.res file
+   
+Make sure, you are not loading the default Valve font config after customfontfiles.res
+  - remove the default font setting from clientscheme.res
+  - or add `#base "customfontfiles.res"` to the end of clientscheme.res
    
 Feel free to use TF2.ttf, TF2build.ttf, TF2professor.ttf, TF2secondary.ttf, Ocra.ttf, Blocks.ttf.  
 Disclaimer: Publisher is not responsible for distributing software in any way.  
